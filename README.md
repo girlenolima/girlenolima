@@ -3,7 +3,7 @@ Sempre estudando.
 
 ##
 - ✔️ Formado em Administracao  de empresas.
-- 📚 Cursando analise e desenvolvimento de sistemas.
+- ✔️ Formado analise e desenvolvimento de sistemas.
 - 📙 Estudando tecnologias java.
 - 📗 Estudando ORACLE 21c -  SQL PL/SQL e Modelagem.
 - 📘 Estudando Inglês Extremo - professor Paulo Botelho.
