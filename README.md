@@ -12,7 +12,7 @@ Sempre estudando.
 
 
 ### Platonico
-
+##
 
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -24,6 +24,7 @@ Sempre estudando.
 
 ### Literatura recomendada
 
+##
 <div style="display: inline_block"><br>
   <img align="center" height="100" width="70" src="https://user-images.githubusercontent.com/75032231/145129561-39355a1e-b1c8-4da1-8df0-309cc0b71b4a.png">
   <img align="center" height="100" width="70" src="https://images-na.ssl-images-amazon.com/images/I/81RXMnEXrdL.jpg">
