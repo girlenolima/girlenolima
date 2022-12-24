@@ -4,6 +4,7 @@ Sempre estudando.
 ##
 - ✔️ Formado em Administracao  de empresas.
 - ✔️ Formado analise e desenvolvimento de sistemas.
+- 🕒 Pós-Graduando em big data, inteligencia artificial e inteligencia de dados.
 - 📙 Estudando tecnologias java.
 - 📗 Estudando ORACLE 21c -  SQL PL/SQL e Modelagem.
 - 📘 Estudando Inglês Extremo - professor Paulo Botelho.
