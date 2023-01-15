@@ -1,3 +1,11 @@
+<img align="right" height="550em" src="https://raw.githubusercontent.com/gist/girlenolima/05b1180696f706caec810ef368283469/raw/d202f01655ce28c22ccfd8829a60c41adaadbaa2/gitcar.svg"/>
+
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Leno Lima</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=girlenolima&color=yellow" alt="Profile views" /> </p>
+
+
+
 ### <div align="justify"> Hello, Greetings, and welcome to my profile on GitHub!</div>
 
 <div align="justify"> I am a developer passionate about technology and constantly seeking to acquire new skills and techniques to improve my achievements. On my profile, you will find some of my personal projects, open-source projects and also study projects. I feel comfortable working with languages such as Java and Python, but not limited to them.</div>
@@ -7,24 +15,25 @@
 <div align="justify"> Thank you for visiting my profile and I hope to have the opportunity to collaborate with you soon!</div>
 <p>
   
-##
-- ✔️ Formado em Administracao  de empresas.
-- ✔️ Formado analise e desenvolvimento de sistemas.
-- 🕒 Pós-Graduando em big data, inteligencia artificial e inteligencia de dados.
-- 📙 Estudando tecnologias java.
-- 📗 Estudando ORACLE 21c -  SQL PL/SQL e Modelagem.
-- 📘 Estudando Inglês Extremo - professor Paulo Botelho.
+Academic formation
+---
+
+-  15 % - Graduate in big data, artificial intelligence and data intelligence.
+- Analysis and systems development.
+- Business Administration.
+- Studying Tecnologias java.
+- Studying ORACLE 21c -  SQL PL/SQL e Model.
+- Studying Inglês.
 
 
-
-### Platonico
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-</div>
-
+Knowledge
+---
+- JAVA
+- MYSQL
+- Spring boot
+- HTML  e CSS
+- learn JavaScript
+- SAP FI (analyst)
 
 
 
