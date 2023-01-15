@@ -48,10 +48,16 @@ Knowledge
   <img align="center" height="100" width="70" src="https://images-na.ssl-images-amazon.com/images/I/7174cBVwjsL.jpg">
 </div>
 
+## Contact
 
+<a href="https://www.linkedin.com/in/girleno-lima-687b09208/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-GirlenoLima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/leno.lim4" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-GirlenoLima-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
 
-##
-
+</p>
   
 
 
