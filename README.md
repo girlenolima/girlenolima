@@ -39,7 +39,7 @@ Knowledge
 
 
 
-### Literatura recomendada
+### Recommended literature
 
 ##
 <div style="display: inline_block"><br>
