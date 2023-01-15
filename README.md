@@ -33,7 +33,9 @@ Knowledge
 - Spring boot
 - HTML  e CSS
 - learn JavaScript
+- learn Python
 - SAP FI (analyst)
+
 
 
 
